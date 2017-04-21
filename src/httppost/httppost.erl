@@ -1,5 +1,5 @@
--author("Kim Kiogora <kimkiogora@gmail.com>").
 -module(httppost).
+-author("Kim Kiogora <kimkiogora@gmail.com>").
 -export([start/0]).
 
 start()->io:format("Testing HTTP POST~n"),
