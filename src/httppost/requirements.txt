@@ -1,3 +1,0 @@
-Lib *** erlang-jiffy
-On ubuntu
-#sudo apt-get install erlang-jiffy
